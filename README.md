@@ -6,6 +6,7 @@ Are you a local shop struggling to reach your audience effectively? Introducing 
 
 ## ScreenShots
 
+![ss](https://github.com/rayy2002/StorezUp/assets/88958861/c70a0e22-c0aa-4ff5-b656-c427ae204b5f)
 ![Screenshot 2023-11-23 032238](https://github.com/rayy2002/StorezUp/assets/88958861/f60600d6-3a53-4278-9502-ec803fcb433e)
 ![Screenshot 2023-11-23 032305](https://github.com/rayy2002/StorezUp/assets/88958861/7be84e5f-ab6f-4866-b392-30743d3cd350)
 ![Screenshot 2023-11-23 032645](https://github.com/rayy2002/StorezUp/assets/88958861/df7ecc01-d04c-4493-9f82-44871b564386)
