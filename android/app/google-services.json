@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560190544219",
+    "project_id": "storezup",
+    "storage_bucket": "storezup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560190544219:android:76f50638715ac4f302227e",
+        "android_client_info": {
+          "package_name": "com.example.storezup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsR04Mz8-2tXFCp0jM6b-WEj0ntgBidw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
