@@ -15,7 +15,6 @@ Welcome to StorezUP, your go-to solution for connecting local shops with their c
 
 ## Getting Started
 
-
 # Steps to Download and Run ShopConnect
 
  1. Clone the Repository:
@@ -51,10 +50,9 @@ flutter run
 ```
 If you encounter any issues, make sure your device/emulator is properly set up and running.
 
+**Create Your Shop Profile**: Sign up and create your shop profile. Provide essential information, such as your shop name, location, and contact details.
 
-2. **Create Your Shop Profile**: Sign up and create your shop profile. Provide essential information, such as your shop name, location, and contact details.
-
-3. **Start Connecting**: Explore the intuitive interface and start connecting with your community. Create events, share announcements, and promote your shop effortlessly.
+**Start Connecting**: Explore the intuitive interface and start connecting with your community. Create events, share announcements, and promote your shop effortlessly.
 
 ## Competetion Details
 
