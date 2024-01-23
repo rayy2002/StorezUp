@@ -19,5 +19,4 @@ Are you a local shop struggling to reach your audience effectively? Introducing 
 ![Screenshot 2023-11-23 034926](https://github.com/rayy2002/StorezUp/assets/88958861/c907f290-a1a8-4cb3-b029-8f3ad532c100)
 
 https://github.com/rayy2002/StorezUp/assets/88958861/be2906a2-ec0d-481c-ace0-92ede4184ca8
-![ob_texture](https://github.com/rayy2002/StorezUp/assets/88958861/f42d77a4-d88c-417d-be1d-7a6662eeea20)
 
