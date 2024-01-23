@@ -1,5 +1,5 @@
 
-# ShopConnect - Empowering Local Businesses
+# Storezup - Empowering Local Businesses
 
 ## Introduction
 
@@ -15,38 +15,42 @@ Welcome to StorezUP, your go-to solution for connecting local shops with their c
 
 ## Getting Started
 
-To get started with StorezUP, follow these simple steps:
 
-Steps to Download and Run ShopConnect
-Clone the Repository:
+# Steps to Download and Run ShopConnect
 
-Open your terminal and run the following command to clone the ShopConnect repository:
+ 1. Clone the Repository:
 
-bash
-Copy code
+Open your terminal and run the following command to clone the ShopConnect repository: 
+
+```bash
 git clone https://github.com/your-username/shopconnect.git
-Navigate to the Project Directory:
+```
+  
+  2. Navigate to the Project Directory:
 
 Change your current directory to the ShopConnect project directory:
 
-bash
-Copy code
+```bash
 cd shopconnect
-Get Dependencies:
+```
+
+  3. Get Dependencies:
 
 Run the following command to get the dependencies for the project:
 
-bash
-Copy code
+```bash
 flutter pub get
-Run the App:
+```
+
+  4. Run the App:
 
 Once the dependencies are successfully fetched, run the app on your connected Android device or emulator:
 
-bash
-Copy code
+```bash
 flutter run
+```
 If you encounter any issues, make sure your device/emulator is properly set up and running.
+
 
 2. **Create Your Shop Profile**: Sign up and create your shop profile. Provide essential information, such as your shop name, location, and contact details.
 
