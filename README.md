@@ -1,9 +1,9 @@
 
-# Storezup - Empowering Local Businesses
+# StorezUp - Empowering Local Businesses
 
 ## Introduction
 
-Welcome to StorezUP, your go-to solution for connecting local shops with their community! This innovative Flutter-powered Android app is designed to bridge the gap between local businesses and their audience, providing a platform for seamless communication and promotion.
+Welcome to StorezUp, your go-to solution for connecting local shops with their community! This innovative Flutter-powered Android app is designed to bridge the gap between local businesses and their audience, providing a platform for seamless communication and promotion.
 
 ### Key Features
 
@@ -15,14 +15,14 @@ Welcome to StorezUP, your go-to solution for connecting local shops with their c
 
 ## Getting Started
 
-# Steps to Download and Run ShopConnect
+# Steps to Download and Run StorezUp
 
  1. Clone the Repository:
 
 Open your terminal and run the following command to clone the ShopConnect repository: 
 
 ```bash
-git clone https://github.com/your-username/shopconnect.git
+git clone https://github.com/your-username/StorezUp.git
 ```
   
   2. Navigate to the Project Directory:
@@ -56,7 +56,11 @@ If you encounter any issues, make sure your device/emulator is properly set up a
 
 ## Competetion Details
 
-ShopConnect was developed as part of a competition organized by JustNotDev. The goal of the competition was to create innovative solutions that empower local businesses to thrive in the digital age. We are proud to present ShopConnect as a result of this competition, showcasing our commitment to supporting local shops and communities.
+StorezUp was developed as part of a competition organized by JustNotDev. The goal of the competition was to create innovative solutions that empower local businesses to thrive in the digital age. I am proud to present StorezUp as a result of this competition, showcasing our commitment to supporting local shops and communities.
+
+##Screenshots
+
+https://youtu.be/ZTZv7qzigVM?si=nXE4CLKMvDvLwlio
 
 
 
