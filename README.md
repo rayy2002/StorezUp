@@ -61,5 +61,6 @@ StorezUp was developed as part of a competition organized by JustNotDev. The goa
 https://youtu.be/ZTZv7qzigVM?si=nXE4CLKMvDvLwlio
 
 
+![Frame 1](https://github.com/rayy2002/StorezUp/assets/88958861/f162d334-d02a-477b-b13b-071f6b8c33f7)
 
 
